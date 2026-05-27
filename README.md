@@ -1,0 +1,1 @@
+This Application is about connecting developers with each other so that they can talk, help each other out in video chat, this application can solves the problem of hiring just imagine a place where you can meet developers or cracked coders and ask them relevant questions or give them tasks they do it and u hire them :)
